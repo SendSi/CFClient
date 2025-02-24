@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <image id="n0_jzg5" name="img001" pkg="7rsgahjk" src="jzg51" fileName="1003.jpg" xy="242,124" size="200,133" aspect="true"/>
+    <richtext id="n1_jzg5" name="txtName" xy="131,307" size="283,112" fontSize="20" autoSize="none" text="9999&#xA;"/>
+    <image id="n2_jzg5" name="n2" src="jzg52" fileName="Res/1003.png" xy="218,103" size="300,166" aspect="true"/>
+  </displayList>
+</component>

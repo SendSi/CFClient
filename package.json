@@ -1,0 +1,10 @@
+{
+  "name": "CFClient",
+  "uuid": "ebb8e623-fb84-4e3d-ab8e-1d898b6291aa",
+  "creator": {
+    "version": "3.8.5"
+  },
+  "dependencies": {
+    "fairygui-cc": "^1.2.2"
+  }
+}
